@@ -1,0 +1,203 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    background-color: #e5ebf3;
+}
+
+.first-div{
+    width: 20%;
+    margin: auto;
+}
+
+.knust{
+    text-decoration: none;
+    
+
+}
+
+.knust:hover{
+    color: rgb(21, 21, 54);
+    font-weight: bold;
+}
+.chelsea{
+    text-decoration: none;
+
+}
+
+.chelsea:hover{
+    color: rgb(29, 5, 133);
+    font-size: 25px;
+}
+
+h1 {
+    line-height: 1;
+    margin: 40px auto 0 auto;
+   font-size: 6rem;
+   font-family: 'Sacramento', cursive;
+   color: #66BFBF;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+hr{
+    border: dotted #175757 6px;
+    border-bottom: none;
+    width: 4%;
+}
+
+h3 {
+
+    /* font-weight: normal; */
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+
+}
+#programmer{
+    font-weight: normal;
+    text-decoration: none;
+}
+
+#programmer:hover{
+    color: #00303F;
+}
+
+a {
+    color: #11999E;
+}
+.top-cloud{
+
+    position: absolute;
+    top: 50px;
+    right: 300px;
+   
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 220px;
+}
+
+
+.top-container {
+    background-color: #2e4b50;
+    
+    padding-top: 120px;
+}
+
+.middle-container  {
+   
+}
+
+.bottom-container  {
+   
+  background-color: #3B5360;
+    padding: 60px;
+    margin: none;
+    margin-top: 100px;
+   
+}
+
+.footer-link{
+ 
+    color: #11999E;
+    padding: 30px;
+}
+
+.footer-link:hover{
+    color: white;
+}
+
+.first-paragraph{
+    color: ;
+}
+.last-paragraph{
+
+    color: white;
+}
+
+
+
+.skill-row{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+.first-image{
+    width: 30%;
+    float: left;
+  padding-right: 30px;
+}
+.second-image{
+    width: 20%;
+    float: right;
+    padding-left: 30px;
+}
+
+.profile-image{
+    width: 20%;
+}
+
+
+.profile{
+    margin: 100px auto 50px auto;
+}
+
+#first-paragraph{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+  line-height: 2;
+  
+}
+
+.skills{
+margin: 100px auto 100px auto;
+}
+
+.contact-me{
+    margin: 100px auto 50px auto;
+}
+
+#love-message{
+    padding: 20px;
+}
+
+#almost-last-paragraph{
+    width: 30%;
+    text-align: center;
+    margin: auto auto 50px auto;
+}
+
+.actual-contact-me{
+
+        background-color: #66BFBF;
+        color: white;
+        font-size: 20px;
+        border-style: none;
+        height: 35px;
+        padding: 10px;
+        text-decoration: none;
+        border-radius: 20px;
+        
+}
+
+#hover-effect:hover{
+
+    background-color: rgb(119, 72, 180);
+    
+}
